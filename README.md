@@ -1,4 +1,4 @@
 # Sandbox
 
-[Typography](/docs/TYPOGRAPHY.md)
-[Deploy](/docs/deploy.md)
+- [Typography](/docs/TYPOGRAPHY.md)
+- [Deploy](/docs/deploy.md)
